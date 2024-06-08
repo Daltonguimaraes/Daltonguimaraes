@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Dalton Guimaraes!</h1>
 
-- 🔭 **Software Engineer at Pravaler**
+- 🔭 **Bachelor of Economic Sciences**
 
-- 🌱 **Learning Data Science, Data Engineering, Data Analysis, Machine Learning and CV**
+- 🌱 **Public finances, Macroeconomics, Econometrics, Capital market**
 
-- ⚡ **Data, Cyber-security and Back-end Specialist**
+- ⚡ **Skills: Dashboard design, Knowledge in Programming using languages: R, Python and Ruby, SQL knowledge in database**
 
 
 
