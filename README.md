@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<h3 align="left">1. Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <!-- linux -->
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
   <!-- bash -->
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <!-- Ruby puro -->
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/> </a> 
 <br>
-<p align="left">
+<p align="center">
   <!-- Ruby on Rails -->
   <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="60" height="60"/> </a> 
   <!--html5  -->
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <!-- docker -->
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> 
 <br>
-<p align="left">
+<p align="center">
   <!-- git-hub -->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
   <!-- My Sql Server -->
